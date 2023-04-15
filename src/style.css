@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap");
+
+.niceyellow {
+  background-color: #ffe365;
+}
+
+.borderyellow {
+  border-color: #ffe365;
+}
+.niceviolet {
+  background-color: #201339;
+}
+
+.hoverbutton:hover {
+  background-color: #ffe365;
+  color: #201339;
+}
+
+.bigtext {
+  font-size: 4rem;
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.1;
+}
+
+.medtext {
+  font-size: large;
+}
+
+.violettext {
+  color: #201339;
+}
+
+.bluetext {
+  color: #49aae7;
+}
+
+.mainmodel {
+  width: 70rem;
+  height: 50rem;
+  background-position: right;
+}
